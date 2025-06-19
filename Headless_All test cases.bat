@@ -1,0 +1,1 @@
+pytest -v -s -n auto --html=HTMLReports/My_Report_Headless.html --browser headless
